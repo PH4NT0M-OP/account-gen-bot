@@ -43,6 +43,9 @@ CTRL + X and CTRL + S to save and exit. </br>
 Now send /start to you bot to see if it is running! </br>
 </details>
 
+## Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PH4NT0M-OP/account-gen-bot)
+
 ## Support   
 Join the [telegram group](https://t.me/BotzHubChat) for support and the [channel](https://t.me/BotzHub) for updates.   
    
